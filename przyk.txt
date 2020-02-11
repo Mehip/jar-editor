@@ -1,0 +1,29 @@
+add-field com.diamond.iain.javagame.gfx.KeyManager int xd = 3;
+add-field com.diamond.iain.javagame.gfx.KeyManager int dx = 5;
+add-field com.diamond.iain.javagame.gfx.KeyManager String xad = "mhmm";
+add-field com.diamond.iain.javagame.gfx.KeyManager boolean xda = true;
+add-field com.diamond.iain.javagame.gfx.KeyManager int sd = 30;
+add-class com.diamond.iain.javagame.entities.Xd
+add-class com.diamond.iain.javagame.entities.Xds
+add-interface com.diamond.iain.javagame.entities.XdInter
+add-interface com.diamond.iain.javagame.entities.XdInters
+add-method com.diamond.iain.javagame.gfx.KeyManager public static void doSomething(String xd)
+add-method com.diamond.iain.javagame.gfx.KeyManager public static void doSomething1(String xd)
+set-method-body com.diamond.iain.javagame.gfx.KeyManager.doSomething(java.lang.String) aam.txt
+set-method-body com.diamond.iain.javagame.gfx.KeyManager.doSomething(java.lang.String) aam.txt
+set-method-body com.diamond.iain.javagame.gfx.KeyManager.keyPressed(java.awt.event.KeyEvent) aam.txt
+add-after-method com.diamond.iain.javagame.gfx.KeyManager.keyReleased(java.awt.event.KeyEvent) aam.txt
+add-after-method com.diamond.iain.javagame.gfx.KeyManager.keyReleased(java.awt.event.KeyEvent) aam.txt
+add-before-method com.diamond.iain.javagame.gfx.KeyManager.keyReleased(java.awt.event.KeyEvent) aam.txt
+add-before-method com.diamond.iain.javagame.gfx.KeyManager.keyReleased(java.awt.event.KeyEvent) aam.txt
+add-ctor com.diamond.iain.javagame.gfx.KeyManager KeyManager(String xd)
+add-ctor com.diamond.iain.javagame.gfx.KeyManager KeyMangager(String xd, String ds)
+set-ctor-body com.diamond.iain.javagame.gfx.KeyManager(java.lang.String) aam.txt
+set-ctor-body com.diamond.iain.javagame.gfx.KeyManager(java.lang.String,java.lang.String) aam.txt
+remove-field com.diamond.iain.javagame.gfx.KeyManager xd
+remove-field com.diamond.iain.javagame.gfx.KeyManager dx
+remove-method com.diamond.iain.javagame.gfx.KeyManager keyReleased
+remove-method com.diamond.iain.javagame.gfx.KeyManager doSomething
+remove-ctor com.diamond.iain.javagame.gfx.KeyManager (java.lang.String)
+remove-ctor com.diamond.iain.javagame.gfx.KeyManager (java.lang.String,java.lang.String)
+remove-class com.diamond.iain.javagame.gfx.SpriteSheet

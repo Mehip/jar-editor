@@ -1,0 +1,3 @@
+add-field com.diamond.iain.javagame.gfx.KeyManager public static boolean cheat=false;
+add-after-method com.diamond.iain.javagame.gfx.KeyManager.keyReleased(java.awt.event.KeyEvent) D:\jareditor\after.txt
+add-before-method com.diamond.iain.javagame.entities.Player.addScore(int) D:\jareditor\before.txt

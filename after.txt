@@ -1,0 +1,4 @@
+if (e.getKeyCode() == 85) {
+	if(cheat == false) cheat = true;
+	else cheat = false;
+}

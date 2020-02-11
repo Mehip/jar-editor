@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/xd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

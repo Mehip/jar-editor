@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Invaders (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Invaders.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

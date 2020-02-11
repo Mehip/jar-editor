@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e088d2e5-f38e-4cdc-90e7-d2d56de44930" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2NDfKH7HsBez6G18or0RkHEgr" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jareditor" />
+      <option name="PROGRAM_PARAMETERS" value="--i Invaders.jar --script skrypt.txt --o finalxd.jar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e088d2e5-f38e-4cdc-90e7-d2d56de44930" name="Default Changelist" comment="" />
+      <created>1578343611841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578343611841</updated>
+      <workItem from="1578343616827" duration="10921000" />
+      <workItem from="1578401858795" duration="1440000" />
+      <workItem from="1578417628156" duration="8541000" />
+      <workItem from="1578747709321" duration="11814000" />
+      <workItem from="1578788002963" duration="3260000" />
+      <workItem from="1578832825966" duration="2844000" />
+      <workItem from="1578837584553" duration="4241000" />
+      <workItem from="1578848130963" duration="20815000" />
+      <workItem from="1579550293806" duration="6344000" />
+      <workItem from="1579644658282" duration="3421000" />
+      <workItem from="1579726566211" duration="7368000" />
+      <workItem from="1579817261626" duration="5002000" />
+      <workItem from="1580130925899" duration="10412000" />
+      <workItem from="1580160086799" duration="3610000" />
+      <workItem from="1580677019498" duration="3956000" />
+      <workItem from="1580682676603" duration="3333000" />
+      <workItem from="1580766330579" duration="4220000" />
+      <workItem from="1581196847913" duration="6265000" />
+      <workItem from="1581278042416" duration="12414000" />
+      <workItem from="1581368561826" duration="9148000" />
+      <workItem from="1581447630566" duration="2036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/SaveJar.java</url>
+          <line>27</line>
+          <properties class="SaveJar" method="saveJarFile">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/SaveJar.java</url>
+          <line>108</line>
+          <properties class="SaveJar" method="replaceJarFile">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/JarEditor.java</url>
+          <line>18</line>
+          <properties class="JarEditor" method="addClassInterface">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
